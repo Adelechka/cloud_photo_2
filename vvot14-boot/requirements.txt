@@ -1,0 +1,4 @@
+telegram
+ydb
+six
+python-telegram-bot
